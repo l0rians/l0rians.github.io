@@ -13,5 +13,10 @@
     "baseCurrency": "DKK",
     "targetCurrency": "RUB",
     "exchangeRate": 12.53
+  },
+  {
+    "baseCurrency": "SEK",
+    "targetCurrency": "DKK",
+    "exchangeRate": 0.65
   }
 ]
