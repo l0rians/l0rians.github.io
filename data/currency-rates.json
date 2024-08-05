@@ -1,0 +1,17 @@
+[
+  {
+    "baseCurrency": "USD",
+    "targetCurrency": "EUR",
+    "exchangeRate": 0.91
+  },
+  {
+    "baseCurrency": "EUR",
+    "targetCurrency": "USD",
+    "exchangeRate": 1.1
+  },
+  {
+    "baseCurrency": "DKK",
+    "targetCurrency": "RUB",
+    "exchangeRate": 12.53
+  }
+]
